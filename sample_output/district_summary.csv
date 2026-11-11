@@ -1,0 +1,5 @@
+district_id,quota,applications,ineligible,allotted,waitlisted,subsidy_committed,subsidy_released
+DST-01,20,31,5,20,6,6675600.00,1311000.00
+DST-02,30,43,6,30,7,9935800.00,4681050.00
+DST-03,35,52,9,35,8,11142100.00,2817600.00
+DST-04,40,54,5,40,9,12062500.00,4059200.00

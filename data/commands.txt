@@ -1,0 +1,8 @@
+# ECE-030 command file - evaluate applications first, then process milestone events in file order
+LOAD_DISTRICTS|districts.csv
+LOAD_VENDORS|vendors.csv
+LOAD_APPLICATIONS|applications.csv
+EVALUATE
+LOAD_MILESTONES|milestones.csv
+PROCESS_MILESTONES
+SUMMARY
