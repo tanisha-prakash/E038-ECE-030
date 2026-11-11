@@ -21,6 +21,6 @@ Bad CSV rows and bad commands are reported and skipped, never fatal.
 `docs/BUSINESS_RULES.md` · `docs/DECISION_LOG.md`
 
 ## Status
-Done: BR-01…BR-12, official file/column formats, validation, all planted scenarios (tests/test_sample_pack.py), 54 tests.
+**Done:** BR-01…BR-12, official file/column formats, validation, all planted scenarios (tests/test_sample_pack.py), 54 tests.
 Result on sample pack: 180 applications → 125 allotted, 30 waitlisted, 25 ineligible; 12 oversize reduced; 83 releases; 3 events rejected.
-Pending: design PDF, demo video, answers on decision-log items DL-13…DL-21, stretch goals.
+**Pending:** design PDF, demo video, answers on decision-log items DL-13…DL-21, stretch goals.
