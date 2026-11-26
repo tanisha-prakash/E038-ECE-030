@@ -1,3 +1,5 @@
+> **Status at final submission:** DL-13 to DL-21 below were sent to 10 SECONDS for confirmation on the team thread. No reply had been received, so they remain our working assumptions. Each is isolated in the code location named in `docs/Design_Document.pdf` (section 9) so it can be changed quickly.
+
 # Decision Log
 
 ## Resolved by the official sample-data pack (docs/SAMPLE_DATA_README.md)
