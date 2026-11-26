@@ -3,7 +3,7 @@
 Team E038 (Section ECM B): Syeda Rushda Mehr Hussainy (1AT24UE075), Tanisha Prakash (1AT24UE076)
 Language: Python 3.10+, standard library only (pytest for tests).
 
-**Demo video (5 min):** [[PASTE VIDEO LINK](https://drive.google.com/file/d/1_mUfp5jYsFMzgoEwOfe511MBfgPp6ddB/view?usp=drive_link)]
+**Demo video (5 min):** [[DEMO VIDEO LINK](https://drive.google.com/file/d/1_mUfp5jYsFMzgoEwOfe511MBfgPp6ddB/view?usp=drive_link)]
 **Design document:** [docs/Design_Document.pdf](docs/Design_Document.pdf) · 
 **Decision log:** [docs/DECISION_LOG.md](docs/DECISION_LOG.md) · 
 **Rule register:** [docs/BUSINESS_RULES.md](docs/BUSINESS_RULES.md)
